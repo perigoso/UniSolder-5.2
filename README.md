@@ -38,12 +38,12 @@ Attempt to build the most universal soldering controller possible. It can drive 
 - various chinese cheap irons with separate TC
 
 ### Working example videos
-- JBC C245: https://www.youtube.com/watch?v=oTdQB4ywDOA&feature=youtu.be
-- JBC C210: https://www.youtube.com/watch?v=iyz-EDf-JaY&feature=youtu.be
-- T12, JBC C210, JBC Microtweezers: https://www.youtube.com/watch?v=-f0KSU0PJzc&t=70s
-- Chinese T12: https://www.youtube.com/watch?v=u588sh-4thg&feature=youtu.be
-- Weller WSP80: https://www.youtube.com/watch?v=gd_8w7l8_Bo&feature=youtu.be
-- Weller WMRT: https://www.youtube.com/watch?v=eHNJuQEw6XU&feature=youtu.be
+- [JBC C24](https://www.youtube.com/watch?v=oTdQB4ywDOA&feature=youtu.be)
+- [JBC C210](https://www.youtube.com/watch?v=iyz-EDf-JaY&feature=youtu.be)
+- [T12, JBC C210, JBC Microtweezers](https://www.youtube.com/watch?v=-f0KSU0PJzc&t=70s)
+- [Chinese T12](https://www.youtube.com/watch?v=u588sh-4thg&feature=youtu.be)
+- [Weller WSP80](https://www.youtube.com/watch?v=gd_8w7l8_Bo&feature=youtu.be)
+- [Weller WMRT](https://www.youtube.com/watch?v=eHNJuQEw6XU&feature=youtu.be)
 
 ### Additional resources
 - Valerio made a great git repo with plenty ot usefull information and notes [here](https://github.com/valerionew/unisolder-notes)
