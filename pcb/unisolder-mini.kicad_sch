@@ -1,0 +1,25 @@
+(kicad_sch (version 20210406) (generator eeschema)
+
+  (uuid 8e0642d1-8422-46b7-b256-4b5273ebd84f)
+
+  (paper "A4")
+
+  (title_block
+    (title "UniSolder Mini")
+    (date "2021-05-10")
+    (rev "5.2C Mini")
+    (comment 3 "Copyright (R) 2015-2020  Spartak Timchev, 2021 Rafael Silva")
+    (comment 4 "Licensed under CC-BY-4.0")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+
+  (symbol_instances
+  )
+)
